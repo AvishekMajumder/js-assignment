@@ -1,7 +1,7 @@
 
 // Assignment-1.kilometerToMeter
 function kilometerToMeter(kilometer) {
-    var meter = kilometer * 1000;
+    var meter = kilometer * 1000; //We know 1km = 1000m;
     return meter;
 }
 var result = kilometerToMeter(5);
